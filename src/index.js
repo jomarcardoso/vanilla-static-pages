@@ -1,5 +1,6 @@
 
 import { oi }  from './scripts/oi';
+// import image from './images/download.png';
 
 function component() {
   var element = document.createElement('div');
